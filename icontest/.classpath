@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/apiguardian-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/bcprov-jdk15on-1.60.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/byte-buddy-1.8.10.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/byte-buddy-agent-1.8.10.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/icon-sdk-0.9.10.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/jackson-core-2.9.6.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/jackson-databind-2.9.6.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/junit-jupiter-api-5.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/junit-jupiter-engine-5.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/junit-platform-commons-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/junit-platform-engine-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/logging-interceptor-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/mockito-core-2.19.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/objenesis-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/okhttp-3.12.1.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/Desktop/Jars for ICON SDK for Java/opentest4j-1.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
