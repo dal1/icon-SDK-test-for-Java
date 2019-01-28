@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/apiguardian-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/bcprov-jdk15on-1.60.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/byte-buddy-1.8.10.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/byte-buddy-agent-1.8.10.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/icon-sdk-0.9.10.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/jackson-core-2.9.6.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/jackson-databind-2.9.6.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/junit-jupiter-api-5.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/junit-jupiter-engine-5.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/junit-platform-commons-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/junit-platform-engine-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/logging-interceptor-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/mockito-core-2.19.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/objenesis-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/okhttp-3.12.1.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/home/new/eclipse-workspace/icontest/jars/opentest4j-1.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
